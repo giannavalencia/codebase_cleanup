@@ -7,11 +7,11 @@ To get started with the ["Codebase Cleanup" Exercise](https://github.com/prof-ro
 Create virtual environment:
 
 ```sh
-conda create -n cleanup-env python=3.8
+conda create -n cleanup-env-codebase python=3.8
 ```
 
 ```sh
-conda activate cleanup-env
+conda activate cleanup-env-codebase
 ```
 
 Install packages:
